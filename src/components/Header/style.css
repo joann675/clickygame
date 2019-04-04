@@ -1,0 +1,12 @@
+.header {
+  min-height: 200px;
+  width: 100%;
+  
+  text-align: center;
+  background-image: url("/images/17226256-pink-flowery-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color: purple;
+  display: block;
+  
+}
